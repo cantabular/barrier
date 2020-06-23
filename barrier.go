@@ -15,7 +15,7 @@
 //	import (
 //		"sync"
 //
-//		"github.com/pwaller/barrier"
+//		"github.com/sensiblecodeio/barrier"
 //	)
 //
 //	func main() {
